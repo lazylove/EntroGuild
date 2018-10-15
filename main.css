@@ -19,7 +19,7 @@ body {
 .header1
 {
     font-size: 250%;
-    font-family: TH SarabunPSK;
+    font-family: EkkamaiStandard-Light;
     justify-content: center;
     text-align: center;
     margin: 0px 0px 50px;
@@ -61,7 +61,7 @@ body {
 
 p {
     display: inline;
-    font-family: TH SarabunPSK;
+    font-family: EkkamaiStandard-Light;
     font-size: 12px
 }
 .item1 {
