@@ -22,6 +22,7 @@ body {
     font-family: EkkamaiStandard-Light;
     justify-content: center;
     text-align: center;
+    font-weight: bold;
     margin: 10px 0px 40px;
 }
 
@@ -62,7 +63,7 @@ body {
 p {
     display: inline;
     font-family: EkkamaiStandard-Light;
-    font-size: 12px
+    font-size: 12px;
 }
 .item1 {
     grid-column: 1 / span 3;
