@@ -40,7 +40,7 @@ body {
 .container1 {
     display: grid;
     grid-template-columns: 150px 60px auto;
-    grid-template-rows: 150px 50px auto;
+    grid-template-rows: 150px 100px auto;
     margin: 0px 10px ;
     /* grid-gap: 1px; */
 }
@@ -85,3 +85,21 @@ p {
     grid-template-columns: 50px auto;
   }
 
+  .divTT 
+  {
+    border-radius: 25px;
+    background: #132E55;
+    /* padding: 20px; */
+    width: 120px;
+    height:20px; 
+  }
+
+  .pName
+  {
+      color: white;
+      font-weight: 1000;
+  }
+  .pxx
+  {
+      
+  }
