@@ -40,7 +40,7 @@ body {
 .container1 {
     display: grid;
     grid-template-columns: 150px auto auto;
-    grid-template-rows: 170px auto;
+    grid-template-rows: 200px auto;
     margin: 0px 15px ;
     /* grid-gap: 1px; */
 }
