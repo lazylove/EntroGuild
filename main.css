@@ -82,7 +82,7 @@ p {
   {
     grid-column: 1 / span 3;
     display: grid;
-    grid-template-columns: 50px auto;
+    grid-template-columns: 70px auto;
   }
 
   .divTT 
@@ -91,7 +91,19 @@ p {
     background: #132E55;
     /* padding: 20px; */
     width: 120px;
+    height:28px; 
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .divTag
+  {
+    border-radius: 25px;
+    background: #132E55;
+    /* padding: 20px; */
+    width: 120px;
     height:20px; 
+
   }
 
   .pName
@@ -99,7 +111,8 @@ p {
       color: white;
       font-weight: 1000;
   }
-  .pxx
+  .pTab
   {
-      
+    color: white;
+    margin-left: 20px;
   }
