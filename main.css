@@ -40,7 +40,7 @@ body {
     display: grid;
     grid-template-columns: 150px 60px auto;
     grid-template-rows: 170px 130px;
-    margin: 0px 10px;
+    margin: 0px 0px;
     /* grid-gap: 1px; */
 }
 
@@ -102,50 +102,49 @@ p {
     height: 30px;
 }
 
-.divTagSTR100 {
+.divTagSTR {
     border-radius: 25px;
     background: #132E55;
     /* padding: 20px; */
-    width: 120px;
     height: 24px;
-    text-align: center;
-    margin: 0px 0px 0px 0px;
+    /* text-align: center; */
+    /* margin: 0px 0px 0px 0px; */
 }
 
-.divTagAGI70 {
+.divTagAGI {
     border-radius: 25px;
     background: #3ebcaa;
     /* padding: 20px; */
-    width: 95px;
+    /* width: 95px; */
     height: 24px;
-    text-align: center;
+    /* text-align: center; */
 }
 
-.divTagDEX80 {
+.divTagDEX {
     border-radius: 25px;
     background: #225173;
     /* padding: 20px; */
-    width: 105px;
+    /* width: 105px; */
     height: 24px;
-    text-align: center;
+    /* text-align: center; */
 }
 
-.divTagINT60 {
+.divTagINT {
     border-radius: 25px;
     background: #3e8caa;
     /* padding: 20px; */
-    width: 80px;
+    /* width: 80px; */
     height: 24px;
-    text-align: center;
+    /* text-align: center; */
 }
 
-.divTagLUCK10 {
+.divTagLUCK {
     border-radius: 25px;
     background: #A0C6CD;
     /* padding: 20px; */
-    width: 25px;
+    /* width: 25px; */
     height: 24px;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .pName {
@@ -155,7 +154,7 @@ p {
 
 .pTab {
     color: white;
-    margin: 0px;
+    margin: 0px 10px 0px;
     padding: 0px;
     /* margin-left: 50px; */
 }
